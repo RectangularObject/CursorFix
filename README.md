@@ -1,5 +1,5 @@
 # UWPRobloxCursorFix
-AHK Script to fix the cursor on the windows microsoft store version of Roblox
+AHK Script to fix the cursor on the microsoft store version of Roblox
 
 Requires ahk v2
 
